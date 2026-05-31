@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineering student passionate about Cyber Security. I am an AI assisted developer. <br>Skilled in Java, Typescript,Node.js,Next.js ,Tailwind CSS and Full Stack Web Development. <br>I enjoy building scalable projects, exploring AI integration and Open Source contributions.<br>My hobbies are decoding DSA logics and exploring coding with PCB Boards such as Arduino and Raspberry Pi. <br>Interested in AI an ML topics along with some data science concept as well .
+Computer Engineering student passionate about Cyber Security. I am an AI assisted developer. <br>Skilled in Java, Typescript,Node.js,Next.js ,Javascript , Tailwind CSS and Full Stack Web Development. <br>I enjoy building scalable projects, exploring AI integration and Open Source contributions.<br>My hobbies are decoding DSA logics and exploring coding with PCB Boards such as Arduino and Raspberry Pi. <br>Interested in AI an ML topics along with some data science concept as well .
 
 
 ## 🌐 Socials:
